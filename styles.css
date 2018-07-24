@@ -1,0 +1,10 @@
+/* Styles for jQuery */
+
+body {
+	background-color: lightBlue;
+}
+
+img {
+	background-color: blue;
+	padding: 1em;
+}
